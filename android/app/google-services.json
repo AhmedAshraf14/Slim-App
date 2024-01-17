@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "79089780984",
+    "project_id": "slim-cd604",
+    "storage_bucket": "slim-cd604.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:79089780984:android:b9e44e24abfe47fe8ed30d",
+        "android_client_info": {
+          "package_name": "com.example.slim"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "79089780984-moljv388irkotj9nneeef4s7ojg7vlek.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkEPsa0FO7yhtmeu7kLg_qlY-OmwlpobM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "79089780984-moljv388irkotj9nneeef4s7ojg7vlek.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "79089780984-tnmp4cj295r493j1928uo152c841jtne.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.slim"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
