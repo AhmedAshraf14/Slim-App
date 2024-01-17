@@ -11,9 +11,10 @@ __Slim__ offers a comprehensive solution, addressing the challenges of time, dis
 - __Water Reminder__: Reminds users to stay hydrated by providing periodic water intake reminders throughout the day.
 - __Workout Recommendations__: Recommends workout routines.
 - __Recipes Page__: Integrates the Yummly API to offer a Recipes page, providing users with a diverse range of meal ideas and recipes.
-
+---
 # App Demo
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/z3NKWm5-PEA/0.jpg)](https://www.youtube.com/watch?v=z3NKWm5-PEA)
+
+https://github.com/AhmedAshraf14/Slim-App/assets/101297028/333c7a69-a3d3-4701-95a8-edb6dc3be16e
 
 # Technologies
 - Flutter.
